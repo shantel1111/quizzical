@@ -19,7 +19,10 @@ export default function Intro(props) {
 
       <div className="middle-section">
         <h1>Quizzical</h1>
-        <p>Some description if needed</p>
+        <p>
+          Ready, set, quiz! Challenge your mind and see how many questions you
+          can crush in a row.
+        </p>
         <button onClick={props.onClick}>Start quiz</button>
       </div>
 
