@@ -1,4 +1,4 @@
-# 🔑 Quizzical
+# 🧠 Quizzical
 A dynamic quiz game built with React!
 Quizzical fetches multiple-choice questions from an API and challenges users to test their knowledge in a fast, fun, and interactive way. Users can select answers, check results, and play again to beat their score.
 
