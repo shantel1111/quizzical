@@ -1,1 +1,10 @@
+# Ignore macOS system files
 .DS_Store
+
+# Ignore dependencies
+node_modules
+**/node_modules
+
+# Ignore build output
+dist
+build
