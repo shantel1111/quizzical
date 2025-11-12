@@ -21,7 +21,7 @@ export default function Intro(props) {
         <h1>Quizzical</h1>
         <p>
           Ready, set, quiz! Challenge your mind and see how many questions you
-          can crush in a row.
+          can crush.
         </p>
         <button onClick={props.onClick}>Start quiz</button>
       </div>
